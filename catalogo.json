@@ -1,0 +1,69 @@
+{
+    "supermercados": [
+        {
+            "nombre": "Supermercado Dia",
+            "productos": [
+                {
+                    "nombre": "salmon",
+                    "ofertas": "20%",
+                    "precio": 16.72,
+                    "fechaFinOferta": "15/06/2022",
+                    "esHabitual": true, 
+                    "medida": "gramos",
+                    "cantidad": 300,
+                    "comprado ya": true,
+                    "oferta del mes pasado": false
+                },
+                {
+                    "nombre": "sardina",
+                    "ofertas": "10%",
+                    "precio": 10,
+                    "fechaFinOferta": "15/06/2022",
+                    "es habitual": false,
+                    "medida": "unidades",
+                    "cantidad": 10,
+                    "comprado ya": false,
+                    "oferta del mes pasado": false
+                }
+            ],
+            "ofertasMesPasado":[
+                {
+                    "nombre": "chocolate, helado"
+                }
+            ]
+        },
+        {
+            "nombre": "Erosky",
+            "productos": [
+                {
+                    "nombre": "carne de cerdo",
+                    "ofertas": "15%",
+                    "precio": 5.95,
+                    "fechaFinOferta": "22/06/2022",
+                    "esHabitual": true, 
+                    "medida": "gramos",
+                    "cantidad": 500,
+                    "comprado ya": true,
+                    "oferta del mes pasado": false
+                },
+                {
+                    "nombre": "queso",
+                    "ofertas": "42%",
+                    "precio": 8.62,
+                    "fechaFinOferta": "22/06/2022",
+                    "esHabitual": true, 
+                    "medida": "gramos",
+                    "cantidad": 250,
+                    "comprado ya": true,
+                    "oferta del mes pasado": false
+                }
+            ],
+            "ofertasMesPasado":[
+                {
+                    "nombre": "arroz"
+                }
+            ]
+        }
+    ]
+}
+

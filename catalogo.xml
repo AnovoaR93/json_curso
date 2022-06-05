@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<supermercado>
+    <nombre>Mercadona</nombre>
+    <productos>
+        <producto>
+            <nombre>chocolate</nombre>
+            <ofertas>10%</ofertas>
+            <precio>3</precio>
+            <fechaFinOferta>19/06/2022</fechaFinOferta>
+            <esHabitual>true</esHabitual>
+            <medida>onzas</medida>
+            <cantidad>2</cantidad>
+            <compradoYa>false</compradoYa>
+            <ofertaDelMesPasado>false</ofertaDelMesPasado>
+        </producto>
+        <producto>
+            <nombre>arroz</nombre>
+            <ofertas>12%</ofertas>
+            <precio>3.98</precio>
+            <fechaFinOferta>19/06/2022</fechaFinOferta>
+            <esHabitual>true</esHabitual>
+            <medida>kilos</medida>
+            <cantidad>1</cantidad>
+            <compradoYa>false</compradoYa>
+            <ofertaDelMesPasado>false</ofertaDelMesPasado>
+        </producto>
+    </productos>
+</supermercado>
